@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-**Thinh Nguyen**
-**Cohort: DAPTAMS0321**
-**Amsterdam, March - 2021**
+### **Thinh Nguyen**
+### _Cohort: DAPTAMS0321_
+### _Amsterdam, March - 2021_
 
 ## Content
 - [Project Description](#project-description)
@@ -22,7 +22,7 @@ Most of the rules are retained from the original game. For more info on that, re
 Due to time constraint, I have made the following adaptations to the rules, to make the project more achievable:
 1. The cards range from 1 to 13; thus:
     * 1 = Ace
-    * 11 = J
+    * 11 = J 
     * 12 = Q
     * 13 = K
 2. The stock pile:
@@ -34,8 +34,8 @@ Due to time constraint, I have made the following adaptations to the rules, to m
 4. The foundations:
     * Foundations are numbered 1-2-3-4 from left to right
     * The foundations are designated for specific card types as follows:
-        * Foundation 1 = ♥
-        * Foundation 2 = ♦
+        * Foundation 1 =  ❤️
+        * Foundation 2 = ♦️
         * Foundation 3 = ♠
         * Foundation 4 = ♣
 
