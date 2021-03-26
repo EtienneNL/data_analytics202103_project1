@@ -38,6 +38,9 @@ Due to time constraint, I have made the following adaptations to the rules, to m
         * Foundation 3 = ♠️
         * Foundation 4 = ♣️
 
+All the changes are captured in the following image
+![Alt Text](game_rule_changes.png)
+
 ## Workflow
 Outline of the project workflow can be found on my kanban board on Trello. Refer to section [Links](#links)
 
