@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Building a (modified) solitaire game, using Python (lessons learned in week 1)
 ### **Thinh Nguyen**
 ### _Cohort: DAPTAMS0321_
 ### _Amsterdam, March - 2021_
@@ -45,5 +45,7 @@ Outline of the project workflow can be found on my kanban board on Trello. Refer
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/EtienneNL/data_analytics202103_project1/tree/main/your_code) 
+
 [Presentation](https://github.com/EtienneNL/data_analytics202103_project1/blob/main/your_code/210327_Presentation.pptx)
+
 [Trello](https://trello.com/b/Bn9EjlNz/thinhs-build-your-own-game-project-board)  
