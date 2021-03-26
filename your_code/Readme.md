@@ -44,5 +44,6 @@ Outline of the project workflow can be found on my kanban board on Trello. Refer
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/EtienneNL/data_analytics202103_project1/tree/main/your_code)  
+[Repository](https://github.com/EtienneNL/data_analytics202103_project1/tree/main/your_code) 
+[Presentation](https://github.com/EtienneNL/data_analytics202103_project1/blob/main/your_code/210327_Presentation.pptx)
 [Trello](https://trello.com/b/Bn9EjlNz/thinhs-build-your-own-game-project-board)  
