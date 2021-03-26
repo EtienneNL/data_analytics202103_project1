@@ -36,8 +36,8 @@ Due to time constraint, I have made the following adaptations to the rules, to m
     * The foundations are designated for specific card types as follows:
         * Foundation 1 =  ❤️
         * Foundation 2 = ♦️
-        * Foundation 3 = ♠
-        * Foundation 4 = ♣
+        * Foundation 3 = ♠️
+        * Foundation 4 = ♣️
 
 ## Workflow
 Outline of the project workflow can be found on my kanban board on Trello. Refer to section [Links](#links)
