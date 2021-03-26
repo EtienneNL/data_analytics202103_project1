@@ -38,7 +38,7 @@ Due to time constraint, I have made the following adaptations to the rules, to m
         * Foundation 3 = ♠️
         * Foundation 4 = ♣️
 
-All the changes are captured in the following image
+All the above-mentioned changes are captured illustratively in the following image:
 ![Alt Text](game_rule_changes.png)
 
 ## Workflow
