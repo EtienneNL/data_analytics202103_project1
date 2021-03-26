@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Thinh Nguyen]*
-
-*[DAPTAMS0321, Amsterdam & March, 2021]*
+**Thinh Nguyen**
+**Cohort: DAPTAMS0321**
+**Amsterdam, March - 2021**
 
 ## Content
 - [Project Description](#project-description)
@@ -34,22 +34,16 @@ Due to time constraint, I have made the following adaptations to the rules, to m
 4. The foundations:
     * Foundations are numbered 1-2-3-4 from left to right
     * The foundations are designated for specific card types as follows:
-        ** Foundation 1 = ♥
-        ** Foundation 2 = ♦
-        ** Foundation 3 = ♠
-        ** Foundation 4 = ♣
+        * Foundation 1 = ♥
+        * Foundation 2 = ♦
+        * Foundation 3 = ♠
+        * Foundation 4 = ♣
 
 ## Workflow
 Outline of the project workflow can be found on my kanban board on Trello. Refer to section [Links](#links)
-
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/EtienneNL/data_analytics202103_project1/tree/main/your_code)  
-[Slides](https://slides.com/)  
 [Trello](https://trello.com/b/Bn9EjlNz/thinhs-build-your-own-game-project-board)  
