@@ -16,7 +16,9 @@ This is the first small project in my journey with Iron Hack data analytics boot
 I have chosen the game **Solitaire**, which is at a moderate level of difficulty. There is no specific reason why I have selected it, except for that I perhaps like a bit of a challenge.
 
 ## Rules
-Most of the rules are retained from the original game. For more info on that, refer to the following [link](https://www.solitr.com).
+Most of the rules are retained from the original game, which are captured illustratively in the image below. For more detailed info on that, refer to the following [link](https://www.solitr.com). 
+![Alt Text](quick_reminder.png) 
+
 
 Due to time constraint, I have made the following adaptations to the rules, to make the project more achievable:
 1. The cards range from 1 to 13; thus:
